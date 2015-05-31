@@ -1232,13 +1232,7 @@ TabbletsScriptCode == "64IsEpix"
  
 then
  
-eq = Instance.new("Message",Workspace)
- 
-eq.Text = "Inf".."ini".."ty X Have Successfully loaded"
- 
-Wait(3)
- 
-eq.Text = ("YOURNAMEHERE For updated commands!")
+
  
 Wait(3)
  
